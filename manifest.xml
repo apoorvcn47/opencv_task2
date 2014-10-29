@@ -1,0 +1,15 @@
+<package>
+  <description brief="opencv_task2">
+
+     opencv_task2
+
+  </description>
+  <author>Ryuk</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/tutorialROSOpenCV</url>
+  <depend package="opencv2"/>
+
+</package>
+
+
